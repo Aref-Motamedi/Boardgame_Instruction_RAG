@@ -1,10 +1,15 @@
 import torch
-from langchain_huggingface import HuggingFacePipeline
+from langchain_huggingface import HuggingFacePipeline, HuggingFaceEmbeddings
 from transformers import pipeline
+from langchain_community.document_loaders import TextLoader, DirectoryLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.vectorstores import Chroma
+from langchain.prompts import PromptTemplate
+from langchain.chains import RetrievalQA
 
 if torch.backends.mps.is_available():
     device = 'mps'
-    use_pipeline_device = None
+    use_pipeline_device = 0
 else:
     device = 'cpu'
     use_pipeline_device = -1
@@ -19,8 +24,47 @@ pipe = pipeline(
     model_kwargs={"torch_dtype": torch.bfloat16},
     device = use_pipeline_device,
     max_length =256,
+    batch_size = 1,
 )
 
 llm = HuggingFacePipeline(pipeline=pipe)
 
-print(llm("Explain step by step, how old is the US president."))
+# print(llm("Explain step by step, how old is the US president."))
+
+loader = DirectoryLoader("./documents", glob='*.txt', loader_cls = TextLoader)
+documents = loader.load()
+
+textSplitter = RecursiveCharacterTextSplitter(chunk_size = 300, chunk_overlap = 50)
+texts = textSplitter.split_documents(documents)
+
+print(f'Split text into {len(texts)} chunks')
+
+
+embeddings = HuggingFaceEmbeddings(
+    model_name = 'sentence-transformers/all-MiniLM-L6-v2',
+    model_kwargs = {'device':'cpu'},
+)
+
+vectorstore = Chroma.from_documents(
+    documents=texts,
+    embedding=embeddings,
+    persist_directory="./chroma_db",
+)
+
+retriever = vectorstore.as_retriever(search_kwargs={'k':3})
+
+prompt_template = """Use the following context to answer the question. 
+If you don't know, say so. Keep your answer concise.
+
+Context: {context}
+
+Question: {question}
+
+Answer:"""
+
+PROMPT = PromptTemplate(
+    template=prompt_template,
+    input_variables=['context','question']
+)
+
+
