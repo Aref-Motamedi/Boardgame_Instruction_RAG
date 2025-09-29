@@ -1,0 +1,115 @@
+COUP - COMPLETE RULES AND INSTRUCTIONS
+
+GAME OVERVIEW:
+Coup is a bluffing and deduction game for 2-6 players set in a dystopian future. You are head of a family in an Italian city-state controlled by a weak government. You must manipulate, bluff, and bribe your way to power. Your goal is to be the last player with influence remaining. You start with two influence (represented by two character cards) and two coins. Through extortion, assassination, and deception, you eliminate your opponents' influence while protecting your own.
+
+GAME COMPONENTS:
+- 15 Character cards (3 each of Duke, Assassin, Captain, Ambassador, Contessa)
+- 50 Coin tokens
+- 6 Summary cards (one per player)
+
+THE FIVE CHARACTERS AND THEIR POWERS:
+1. DUKE: Take 3 coins from the Treasury (Tax). Block someone from taking Foreign Aid.
+2. ASSASSIN: Pay 3 coins to assassinate another player's influence.
+3. CAPTAIN: Take 2 coins from another player (Steal). Block someone from stealing from you.
+4. AMBASSADOR: Draw 2 cards from the deck, choose which (if any) to keep, and return 2 cards to the deck. Block someone from stealing from you.
+5. CONTESSA: Block an assassination attempt against you.
+
+SETUP:
+1. Shuffle the 15 character cards and deal 2 cards face-down to each player. These are your "influence" – look at them secretly but don't reveal them to other players.
+2. Place remaining cards face-down in the center as the Court deck.
+3. Give 2 coins to each player from the Treasury.
+4. Place remaining coins in the center as the Treasury.
+5. Each player takes a summary card for reference.
+6. Choose a starting player randomly.
+
+YOUR INFLUENCE:
+Your two character cards represent your influence in the game. Keep them face-down in front of you. When you lose influence, you must choose one card to reveal and turn face-up. Once revealed, that character's power is permanently lost to you. If you lose both influences, you are eliminated from the game.
+
+HOW TO PLAY:
+On your turn, you MUST take one action. There are two types of actions:
+
+GENERAL ACTIONS (always available to everyone):
+1. INCOME: Take 1 coin from the Treasury. (Cannot be challenged or blocked)
+2. FOREIGN AID: Take 2 coins from the Treasury. (Cannot be challenged, but can be blocked by Duke)
+3. COUP: Pay 7 coins to the Treasury and launch a Coup against another player. That player loses an influence of their choice. (Cannot be challenged or blocked)
+
+CHARACTER ACTIONS (require claiming a character):
+4. TAX (Duke): Take 3 coins from the Treasury.
+5. ASSASSINATE (Assassin): Pay 3 coins to the Treasury and assassinate another player's influence.
+6. STEAL (Captain): Take 2 coins from another player.
+7. EXCHANGE (Ambassador): Draw 2 cards from the Court deck, look at them, choose which cards to keep (you may keep 0, 1, or 2), then return cards until you have 2 total. Shuffle and return excess cards to the Court deck.
+
+MANDATORY ACTION:
+If you start your turn with 10 or more coins, you MUST launch a Coup. You cannot take any other action.
+
+CHALLENGING:
+When a player claims a character action (Tax, Assassinate, Steal, or Exchange), any other player may challenge them. If challenged:
+1. The challenged player must prove they have that character by revealing the card.
+2. If they DO have the character: The challenger loses an influence of their choice. The challenged player shuffles their revealed card back into the Court deck and draws a new card.
+3. If they DON'T have the character: The challenged player loses an influence. The action fails.
+
+Only ONE player needs to challenge. If multiple players want to challenge, the player whose turn comes next (clockwise from the acting player) gets priority.
+
+BLOCKING:
+Certain actions can be blocked by claiming specific characters:
+
+BLOCKABLE ACTIONS:
+- FOREIGN AID can be blocked by claiming Duke
+- STEALING can be blocked by claiming Captain OR Ambassador (only by the target)
+- ASSASSINATION can be blocked by claiming Contessa (only by the target)
+
+When blocking:
+1. The blocking player claims to have the blocking character.
+2. The original action is cancelled if the block stands.
+3. The acting player (or any other player) may challenge the block.
+
+CHALLENGE SEQUENCE:
+If a block is challenged:
+1. The blocker must prove they have that character by revealing it.
+2. If they DO have the character: The challenger loses an influence. The blocker shuffles their revealed card back and draws a new card. The block succeeds.
+3. If they DON'T have the character: The blocker loses an influence. The original action proceeds.
+
+IMPORTANT TIMING RULE:
+Challenges must be made immediately after the action or block is declared, before the action resolves. Once coins change hands or cards are drawn, it's too late to challenge.
+
+LOSING INFLUENCE:
+When you lose influence, YOU choose which of your face-down cards to reveal and turn face-up. Once face-up, you can no longer claim that character's power. If both your cards are face-up, you are eliminated from the game.
+
+WINNING THE GAME:
+The last player with at least one face-down influence remaining wins the game!
+
+BLUFFING:
+This is the heart of Coup! You can claim ANY character action, even if you don't have that character card. If no one challenges you, your action succeeds. But if someone challenges you and you're bluffing, you lose an influence and the action fails.
+
+Similarly, you can claim to block with any character, even if you don't have it. The risk is being challenged.
+
+STRATEGY TIPS:
+- Early game: Focus on building coins with Income, Foreign Aid, and Tax.
+- Assassinations are powerful but expensive. Consider whether challenging suspicious claims is worth the risk.
+- If you have 7+ coins, other players know you can Coup next turn, making you a threat.
+- Bluffing the Duke for Tax is common and often goes unchallenged early.
+- The Contessa is crucial for defense but rare – bluffing Contessa blocks is risky but sometimes necessary.
+- Track revealed cards. If all 3 Dukes are face-up, anyone claiming Duke is definitely bluffing!
+- Sometimes revealing a card voluntarily when challenged is strategic – you draw a fresh card.
+- Assassin + Contessa is a strong combo. Captain + Ambassador gives stealing and defense.
+
+ADVANCED TACTICS:
+- Count coins carefully. If someone has 8 coins, they can Assassinate then Coup next turn.
+- Build alliances early, but be ready to betray when necessary.
+- If you hold both of one character, you can safely claim it knowing you can't be proven wrong.
+- Sometimes taking a challenge loss is worth it if your bluff worked multiple times before.
+- Target players with one influence remaining – they're one Coup away from elimination.
+- Don't hoard coins. Once you pass 7, you become the biggest threat at the table.
+
+2-PLAYER VARIANT:
+In 2-player games, each player starts with 1 influence (1 card) instead of 2. First player to eliminate their opponent's single influence wins. All other rules remain the same.
+
+TEAM VARIANT (4 or 6 players):
+Play in teams of 2. Teammates sit across from each other. You cannot target your teammate with harmful actions. First team to eliminate both opponents wins. You may not look at your teammate's cards or discuss strategy explicitly, but you can make implications through your actions.
+
+INQUISITOR VARIANT (advanced):
+Replace the Ambassador with the Inquisitor. The Inquisitor has these powers:
+- Draw 1 card from the Court deck, choose whether to keep it or return it.
+- Choose another player. Look at one of their cards (randomly). You may force them to exchange it with the Court deck.
+- Block stealing (same as Ambassador).

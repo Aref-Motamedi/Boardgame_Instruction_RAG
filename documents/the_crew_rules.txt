@@ -1,0 +1,97 @@
+THE CREW: QUEST FOR PLANET NINE - COMPLETE RULES AND INSTRUCTIONS
+
+GAME OVERVIEW:
+The Crew is a cooperative trick-taking card game for 2-5 players. Players work together as astronauts on a space mission to find the mysterious Planet Nine. The game consists of 50 missions with increasing difficulty. Players must win specific tricks containing certain cards, but communication is severely limited!
+
+GAME COMPONENTS:
+- 40 Game cards (numbered 1-9 in four colors: Pink, Blue, Green, Yellow, plus four special Rocket cards numbered 1-4)
+- 36 Task cards (showing which cards must be won)
+- 16 Tokens (5 arrow tokens, 5 reminder tokens, 5 communication tokens, 1 commander token)
+- 1 Mission logbook with 50 missions
+- 5 large task overview cards (one per player)
+
+CARD HIERARCHY:
+In each of the four colored suits (Pink, Blue, Green, Yellow), cards are ranked 1 (lowest) to 9 (highest).
+Rocket cards are TRUMP cards and always beat colored cards. Rockets rank 1 (lowest) to 4 (highest).
+
+SETUP:
+1. Choose a mission from the logbook. Each mission specifies how many task cards to use and any special rules.
+2. Shuffle the 40 game cards and deal them evenly to all players. In 3-player games, remove all cards numbered 1-3 from the deck before dealing. In 4-player games, each player gets 10 cards. In 5-player games, each player gets 8 cards.
+3. The player who receives the Rocket 4 card becomes the Commander and takes the Commander token.
+4. Place the specified number of task cards face-up in the center of the table.
+5. Give each player a task overview card for reference.
+
+DISTRIBUTING TASKS:
+The Commander chooses one task card from the center and places it in front of any player (including themselves). Then, proceeding clockwise, each player chooses a task card and assigns it to any player. Continue until all task cards are distributed.
+IMPORTANT: Each player must win the tricks containing the cards shown on their assigned task cards.
+
+MISSION REQUIREMENTS:
+Some missions have special requirements shown with tokens placed on task cards:
+- NUMBERED TOKENS (1, 2, 3, etc.): Tasks must be completed in the specified order. Place these tokens on task cards to show the sequence.
+- ARROW TOKEN (>): The task with this token must be completed BEFORE the next task.
+- OMEGA TOKEN (Ω): The task with this token must be completed LAST, after all other tasks.
+
+HOW TO PLAY - TRICK-TAKING RULES:
+The Commander leads the first trick by playing any card from their hand. Going clockwise, each player must:
+1. FOLLOW SUIT if possible (play a card of the same color as the led card).
+2. If unable to follow suit, play any card (including a Trump/Rocket card).
+
+WINNING A TRICK:
+- The highest card of the led suit wins the trick UNLESS a Trump/Rocket was played.
+- If one or more Trump/Rocket cards were played, the highest Trump/Rocket wins.
+- The winner of the trick leads the next trick.
+
+When a trick is won, check if it contains a card shown on any player's task card:
+- If the player who won the trick has that task card in front of them, they have completed that task! Turn the task card face-down.
+- If the player who won the trick does NOT have that task card, the mission is FAILED immediately.
+
+COMMUNICATION RULES:
+Communication is STRICTLY LIMITED. Players cannot discuss strategy, hint about their cards, or show reactions. HOWEVER, once per mission, each player may use their communication token:
+
+1. Place your communication token on any card in your hand.
+2. Depending on where you place the token, you communicate:
+   - Token on TOP of card = "This is my HIGHEST card in this color"
+   - Token on BOTTOM of card = "This is my LOWEST card in this color"  
+   - Token in MIDDLE of card = "This is my ONLY card in this color"
+
+RESTRICTIONS on communication:
+- You can only communicate once per mission.
+- Once you've communicated, you cannot take back or change your communication.
+- You cannot communicate about Trump/Rocket cards.
+- The Commander must wait until all players have played one card in the first trick before communicating.
+- After communication, other players may now communicate on their turns.
+
+RADIO COMMUNICATION (available in some missions):
+Some missions show a radio symbol. In these missions, players may briefly discuss before distributing tasks. The Commander decides when discussion ends. Once tasks are distributed, normal communication rules apply.
+
+DISTRESS SIGNAL:
+If the mission seems impossible to complete, any player may call a "Distress Signal" to abort the mission and try again. However, this counts as a failed attempt. After 3 failed attempts (including Distress Signals), you may skip that mission and move to the next one.
+
+WINNING AND LOSING:
+MISSION SUCCESS: You win the mission when all task cards are completed (face-down) and all tricks have been played.
+MISSION FAILURE: The mission fails immediately if:
+- A player wins a trick containing a card from another player's task card
+- A task is completed out of order (when numbered tokens are used)
+- All tricks are played but not all tasks are completed
+
+After completing a mission, move to the next mission in the logbook. The goal is to complete all 50 missions!
+
+VARIANTS FOR DIFFERENT PLAYER COUNTS:
+2-PLAYER VARIANT: Use only cards 5-9 in each color plus all Rockets. Deal 10 cards to each player. Play is simultaneous – both players play a card, the higher card wins.
+
+3-PLAYER VARIANT: Remove cards 1-3 before dealing. Adjust task card numbers as specified in mission logbook.
+
+STRATEGY TIPS:
+- Use communication wisely! Save it for critical moments.
+- Pay attention to what others communicate – it reveals important information.
+- The Commander should carefully observe all players before making decisions.
+- When distributing tasks, consider who is likely to win certain tricks based on their position.
+- Sometimes winning a trick early is important; other times, you want to lose tricks.
+- Trump/Rocket cards are powerful but should be used strategically.
+- In later missions with multiple tokens, plan the sequence carefully.
+
+ADVANCED STRATEGY:
+- Card counting is essential – remember what's been played.
+- The player after the Commander has an advantage as they see the led card before playing.
+- Sometimes it's strategic to take a task card that seems difficult to prevent others from getting stuck with it.
+- Use low cards early to clear suits so you can play freely later.
