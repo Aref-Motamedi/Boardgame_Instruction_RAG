@@ -23,8 +23,10 @@ pipe = pipeline(
     model = MODEL_NAME,
     model_kwargs={"torch_dtype": torch.bfloat16},
     device = use_pipeline_device,
-    max_length =256,
+    max_length =512,
     batch_size = 1,
+    temperature=0.5,      # ADD: Controls randomness (0.7 = balanced)
+    do_sample=True,
 )
 
 llm = HuggingFacePipeline(pipeline=pipe)
