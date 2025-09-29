@@ -34,7 +34,7 @@ llm = HuggingFacePipeline(pipeline=pipe)
 loader = DirectoryLoader("./documents", glob='*.txt', loader_cls = TextLoader)
 documents = loader.load()
 
-textSplitter = RecursiveCharacterTextSplitter(chunk_size = 300, chunk_overlap = 50)
+textSplitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 50)
 texts = textSplitter.split_documents(documents)
 
 print(f'Split text into {len(texts)} chunks')
@@ -67,4 +67,23 @@ PROMPT = PromptTemplate(
     input_variables=['context','question']
 )
 
+qa_chain = RetrievalQA.from_chain_type(
+    llm = llm,
+    chain_type = 'stuff',
+    retriever= retriever,
+    return_source_documents=True,
+    chain_type_kwargs={'prompt':PROMPT}
+)
 
+print('\n\n','='*30,'\n')
+
+flag=True
+
+while flag:
+    user_input = input('Ask a question (EXIT for exit): ')
+    if user_input == 'EXIT':
+        flag=False
+    else:
+        result = qa_chain({'query': user_input})
+        print(result['result'])
+        print('-'*30,'\n')
